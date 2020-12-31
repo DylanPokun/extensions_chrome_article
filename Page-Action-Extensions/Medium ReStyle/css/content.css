@@ -1,0 +1,5 @@
+/* For https://developer.chrome.com/extensions/contextMenus */
+.intro {
+  font-weight: bold;
+  color: blue;
+}

@@ -1,0 +1,31 @@
+h3 {
+  color: black;
+}
+
+.title {
+  padding: 1rem;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+button.close {
+  padding-right: 1rem;
+}
+
+#randomText {
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-bottom: 5vw;
+}
+
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.btn {
+  margin-bottom: 5px;
+}
